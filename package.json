@@ -1,13 +1,16 @@
 {
   "name": "test001",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
+    "syntax",
+    "syntax",
+    "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/test001",
+  "repository": "https://github.com/rossarin168/test001",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
